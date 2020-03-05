@@ -35,13 +35,3 @@ function check_Alpha(letters) {
     }
     return true;
 }
-
-/* function check_space(letters)
- {
-   if(letters == " "){
-       alert("Name Field cannot be left empty");
-       letters.focus();
-       return false;
-     }
-     return true;
- }*/
